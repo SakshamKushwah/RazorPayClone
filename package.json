@@ -5,10 +5,12 @@
     "preview": "vite preview",
     "start": "vite"
   },
+  "dependencies": {
+    "vite": "^5.4.8"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.13",
-    "vite": "^5.4.8"
+    "tailwindcss": "^3.4.13"
   }
 }
